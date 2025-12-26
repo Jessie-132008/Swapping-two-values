@@ -27,13 +27,8 @@ print("a=",a)
 print("b=",b)
 ```
 **OUTPUT:**
-```
-Enter first value:5
-Enter second value:10
-After Swapping:
-a= 10
-b= 5
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07123fb8-03f5-432b-8463-ab41a5ff9da7" />
+
 
 
 ## RESULT:
