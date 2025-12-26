@@ -18,11 +18,26 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-
+```
+a=int(input("Enter first value:"))
+b=int(input("Enter second value:"))
+a,b=b,a
+print("After Swapping:")
+print("a=",a)
+print("b=",b)
+```
+**OUTPUT:**
+```
+Enter first value:5
+Enter second value:10
+After Swapping:
+a= 10
+b= 5
+```
 
 
 ## RESULT:
-Thus the swapping of two values are successfully executed
+Thus the swapping of two values are successfully executed and achieved.
 
 
 
