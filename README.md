@@ -25,6 +25,8 @@ a,b=b,a
 print("After Swapping:")
 print("a=",a)
 print("b=",b)
+Developed by: JESSIE.J
+RegisterNumber:  25017372
 ```
 **OUTPUT:**
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/07123fb8-03f5-432b-8463-ab41a5ff9da7" />
